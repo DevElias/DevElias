@@ -68,7 +68,7 @@ or <a href="mailto:eliasv.lima@yahoo.com.br"><b>email</b></a> me.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/elias-lima-750a35155/"><img src="https://img.shields.io/badge/-Elias%20Lima-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:eliasv.lima@yahoo.com.br"><img src="https://img.shields.io/badge/-eliasv.lima@yahoo.com.br-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:eliasv.lima@yahoo.com.br"><img src="https://img.shields.io/badge/-Elias Lima-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/elias.patricio.315"><img src="https://img.shields.io/badge/-Elias%20Lima-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
