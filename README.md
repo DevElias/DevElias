@@ -13,13 +13,24 @@ or <a href="mailto:eliasv.lima@yahoo.com.br"><b>email</b></a> me.
 
 </div>
 
-<div align="left">
+<p align="center">
   <strong>Languages</strong>
-</div>
+</p><br>
 
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
+<p align="center">
+  <strong>Tools</strong>
+</p><br>
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
