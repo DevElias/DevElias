@@ -40,6 +40,13 @@ or <a href="mailto:eliasv.lima@yahoo.com.br"><b>email</b></a> me.
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Composer](https://img.shields.io/badge/-Composer-05122A?style=flat&logo=composer)&nbsp;
 
+<p align="left">
+  <strong>Infrastructure</strong>
+</p>
+
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)&nbsp;
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
