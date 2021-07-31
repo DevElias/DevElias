@@ -13,14 +13,13 @@ or <a href="mailto:eliasv.lima@yahoo.com.br"><b>email</b></a> me.
 
 </div>
 
-<div align="center">
+<div align="left">
   <strong>Languages</strong>
 </div>
 
-<p align="center">
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-</p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
