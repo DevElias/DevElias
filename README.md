@@ -13,7 +13,7 @@ or <a href="mailto:eliasv.lima@yahoo.com.br"><b>email</b></a> me.
 
 </div>
 
-<p align="center">
+<p align="left">
   <strong>Languages</strong>
 </p><br>
 
@@ -23,7 +23,7 @@ or <a href="mailto:eliasv.lima@yahoo.com.br"><b>email</b></a> me.
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
-<p align="center">
+<p align="left">
   <strong>Tools</strong>
 </p><br>
 
