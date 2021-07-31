@@ -20,6 +20,7 @@ or <a href="mailto:eliasv.lima@yahoo.com.br"><b>email</b></a> me.
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
@@ -34,6 +35,8 @@ or <a href="mailto:eliasv.lima@yahoo.com.br"><b>email</b></a> me.
 ![Postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Composer](https://img.shields.io/badge/-Composer-05122A?style=flat&logo=composer)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
