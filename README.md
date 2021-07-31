@@ -44,8 +44,8 @@ or <a href="mailto:eliasv.lima@yahoo.com.br"><b>email</b></a> me.
   <strong>Infrastructure</strong>
 </p>
 
-![GCP](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=microsoft-azure)&nbsp;
-![Azure](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=google-cloud)&nbsp;
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
+![GCP](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=google-cloud)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
