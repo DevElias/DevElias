@@ -39,6 +39,7 @@ or <a href="mailto:eliasv.lima@yahoo.com.br"><b>email</b></a> me.
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Composer](https://img.shields.io/badge/-Composer-05122A?style=flat&logo=composer)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 
 <p align="left">
   <strong>Infrastructure</strong>
