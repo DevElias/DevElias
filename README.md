@@ -72,5 +72,3 @@ or <a href="mailto:eliasv.lima@yahoo.com.br"><b>email</b></a> me.
 <a href="mailto:eliasv.lima@yahoo.com.br"><img src="https://img.shields.io/badge/-Elias Lima-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/elias.patricio.315"><img src="https://img.shields.io/badge/-Elias%20Lima-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
-
